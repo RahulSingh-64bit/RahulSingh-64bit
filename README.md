@@ -1,1 +1,1 @@
-https://github.com/RahulSingh-64bit/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=RahulSingh-64bit
