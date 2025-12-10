@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm [Your Name] — Full-Stack Engineer & Modern Web Craftsman</h1>
+<h1 align="center">Hi, I'm Rahul — Full-Stack Engineer & Modern Web Craftsman</h1>
 
 <p align="center">
   Building pixel-perfect, high-performance landing pages and web experiences that convert.<br>
