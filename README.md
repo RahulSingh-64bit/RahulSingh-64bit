@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dwelab/image/upload/v1733670000/automatepro-banner.png" alt="AutomatePro Landing Page" />
+
 
 <h1 align="center">Hi, I'm [Your Name] — Full-Stack Engineer & Modern Web Craftsman</h1>
 
