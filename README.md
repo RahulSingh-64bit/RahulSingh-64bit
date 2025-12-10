@@ -12,9 +12,6 @@
 ### Latest Project — AutomatePro Landing Page
 Fully responsive, animated, enterprise-grade marketing site built from scratch using the modern stack.
 
-Live → https://automatepro.vercel.app *(replace with your link)*  
-Repo → https://github.com/your-username/automatepro-landing
-
 <br>
 
 ### Tech Stack I Live In
