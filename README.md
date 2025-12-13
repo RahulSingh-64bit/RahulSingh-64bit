@@ -9,11 +9,6 @@
 
 <br>
 
-### Latest Project — AutomatePro Landing Page
-Fully responsive, animated, enterprise-grade marketing site built from scratch using the modern stack.
-
-<br>
-
 ### Tech Stack I Live In
 
 ```text
