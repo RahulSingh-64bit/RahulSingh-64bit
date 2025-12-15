@@ -54,11 +54,5 @@ I primarily work with **React and modern frontend technologies**, focusing on pe
 
 ---
 
-## 🤝 Let’s Connect
-- GitHub: **@your-github-username**
-- LinkedIn: **(add your link)**
-- Portfolio: **(optional)**
-
----
 
 ⭐ _Feel free to check out my repositories and drop a star if you like my work!_
