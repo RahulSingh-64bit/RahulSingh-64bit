@@ -2,21 +2,63 @@
 
 <h1 align="center">Hi, I'm Rahul — Full-Stack Engineer & Modern Web Craftsman</h1>
 
-<p align="center">
-  Building pixel-perfect, high-performance landing pages and web experiences that convert.<br>
-  Currently obsessed with <strong>Next.js 14+, Tailwind CSS v4, Framer Motion</strong> and AI-powered automation tools.
-</p>
+🚀 Frontend Developer | React & UI Specialist | Modern Web Enthusiast  
 
-<br>
+I’m a passionate **frontend developer** who loves building **clean, responsive, and user-friendly interfaces**.  
+I primarily work with **React and modern frontend technologies**, focusing on performance, scalability, and great UI/UX.
 
-### Tech Stack I Live In
+---
 
-```text
-Next.js 14 (App Router)     ████████████████████ 95%
-Tailwind CSS v4.1           ███████████████████  93%
-Framer Motion               ██████████████████   90%
-React 18 + Server Components ████████████████    88%
-TypeScript                  ██████████████       80%
-Lucide / Radix UI           █████████████        78%
-Vercel & Edge Functions     ████████████         75%
-Shadcn/ui & Aceternity UI   ███████████          70%
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- **HTML5, CSS3, JavaScript (ES6+)**
+- **React.js**
+- **Next.js**
+- **Tailwind CSS**
+- **SCSS / CSS Modules**
+- **Bootstrap**
+- **Framer Motion**
+- **ApexCharts / Chart.js**
+
+### 🎨 UI / UX
+- Component-based UI development
+- Pixel-perfect design implementation
+- Responsive & mobile-first layouts
+- Figma to React conversion
+- Reusable & scalable UI components
+
+### ⚙️ Tools & Workflow
+- Git & GitHub
+- VS Code
+- npm / yarn
+- REST APIs
+- Agile & clean code practices
+
+---
+
+## 🔥 What I Do
+- Build modern **React & Next.js applications**
+- Create **reusable UI components**
+- Convert **designs into functional interfaces**
+- Optimize frontend performance
+- Maintain clean and scalable codebases
+
+---
+
+## 📈 Currently Focused On
+- Advanced React patterns
+- Performance optimization
+- Scalable frontend architectures
+- Building production-ready UI systems
+
+---
+
+## 🤝 Let’s Connect
+- GitHub: **@your-github-username**
+- LinkedIn: **(add your link)**
+- Portfolio: **(optional)**
+
+---
+
+⭐ _Feel free to check out my repositories and drop a star if you like my work!_
